@@ -3,5 +3,5 @@
 }
 
 .btnApplications:hover {
-        background-color: bisque;
+        background-color: bisque !important;
 }
